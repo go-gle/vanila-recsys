@@ -1,0 +1,1 @@
+Small project for IPP python class. Very simple RecSys based on correlation.  
